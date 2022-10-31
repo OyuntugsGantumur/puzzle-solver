@@ -1,0 +1,280 @@
+PUZZLE #1
+1 3 
+0 2 
+Solved by Misplaced Tiles in 6 nodes
+Solved by Manhattan Distance in 6 nodes.
+Solved by Maxsort in 8 nodes.
+Solved by Euclidean Distance in 8 nodes.
+PUZZLE #2
+1 3 
+2 0 
+Solved by Misplaced Tiles in 4 nodes
+Solved by Manhattan Distance in 4 nodes.
+Solved by Maxsort in 4 nodes.
+Solved by Euclidean Distance in 4 nodes.
+PUZZLE #3
+0 3 
+1 2 
+Solved by Misplaced Tiles in 10 nodes
+Solved by Manhattan Distance in 8 nodes.
+Solved by Maxsort in 16 nodes.
+Solved by Euclidean Distance in 14 nodes.
+PUZZLE #4
+2 1 
+3 0 
+Solved by Misplaced Tiles in 4 nodes
+Solved by Manhattan Distance in 4 nodes.
+Solved by Maxsort in 4 nodes.
+Solved by Euclidean Distance in 4 nodes.
+PUZZLE #5
+2 0 
+3 1 
+Solved by Misplaced Tiles in 6 nodes
+Solved by Manhattan Distance in 6 nodes.
+Solved by Maxsort in 8 nodes.
+Solved by Euclidean Distance in 8 nodes.
+PUZZLE #6
+0 2 
+3 1 
+Solved by Misplaced Tiles in 10 nodes
+Solved by Manhattan Distance in 8 nodes.
+Solved by Maxsort in 16 nodes.
+Solved by Euclidean Distance in 14 nodes.
+PUZZLE #7
+3 2 
+0 1 
+Solved by Misplaced Tiles in 18 nodes
+Solved by Manhattan Distance in 10 nodes.
+Solved by Maxsort in 32 nodes.
+Solved by Euclidean Distance in 26 nodes.
+PUZZLE #8
+3 2 
+1 0 
+Solved by Misplaced Tiles in 38 nodes
+Solved by Manhattan Distance in 22 nodes.
+Solved by Maxsort in 66 nodes.
+Solved by Euclidean Distance in 52 nodes.
+PUZZLE #9
+3 0 
+1 2 
+Solved by Misplaced Tiles in 18 nodes
+Solved by Manhattan Distance in 10 nodes.
+Solved by Maxsort in 32 nodes.
+Solved by Euclidean Distance in 26 nodes.
+PUZZLE #10
+1 0 
+2 3 
+Solved by Misplaced Tiles in 2 nodes
+Solved by Manhattan Distance in 2 nodes.
+Solved by Maxsort in 2 nodes.
+Solved by Euclidean Distance in 2 nodes.
+PUZZLE #11
+3 1 2 
+4 7 5 
+6 0 8 
+Solved by Misplaced Tiles in 10 nodes
+Solved by Manhattan Distance in 10 nodes.
+Solved by Maxsort in 10 nodes.
+Solved by Euclidean Distance in 10 nodes.
+PUZZLE #12
+3 1 2 
+4 0 8 
+6 5 7 
+Solved by Misplaced Tiles in 27 nodes
+Solved by Manhattan Distance in 24 nodes.
+Solved by Maxsort in 87 nodes.
+Solved by Euclidean Distance in 73 nodes.
+PUZZLE #13
+1 2 5 
+3 7 4 
+6 8 0 
+Solved by Misplaced Tiles in 17 nodes
+Solved by Manhattan Distance in 17 nodes.
+Solved by Maxsort in 32 nodes.
+Solved by Euclidean Distance in 22 nodes.
+PUZZLE #14
+1 4 2 
+3 5 8 
+6 0 7 
+Solved by Misplaced Tiles in 15 nodes
+Solved by Manhattan Distance in 15 nodes.
+Solved by Maxsort in 24 nodes.
+Solved by Euclidean Distance in 19 nodes.
+PUZZLE #15
+3 1 2 
+6 5 0 
+7 4 8 
+Solved by Misplaced Tiles in 15 nodes
+Solved by Manhattan Distance in 15 nodes.
+Solved by Maxsort in 20 nodes.
+Solved by Euclidean Distance in 20 nodes.
+PUZZLE #16
+1 2 5 
+7 4 8 
+3 6 0 
+Solved by Misplaced Tiles in 259 nodes
+Solved by Manhattan Distance in 126 nodes.
+Solved by Maxsort in 809 nodes.
+Solved by Euclidean Distance in 327 nodes.
+PUZZLE #17
+3 2 5 
+4 1 8 
+0 6 7 
+Solved by Misplaced Tiles in 22 nodes
+Solved by Manhattan Distance in 22 nodes.
+Solved by Maxsort in 47 nodes.
+Solved by Euclidean Distance in 33 nodes.
+PUZZLE #18
+1 4 0 
+6 3 2 
+7 8 5 
+Solved by Misplaced Tiles in 22 nodes
+Solved by Manhattan Distance in 22 nodes.
+Solved by Maxsort in 47 nodes.
+Solved by Euclidean Distance in 29 nodes.
+PUZZLE #19
+3 2 0 
+6 1 4 
+7 8 5 
+Solved by Misplaced Tiles in 22 nodes
+Solved by Manhattan Distance in 22 nodes.
+Solved by Maxsort in 54 nodes.
+Solved by Euclidean Distance in 29 nodes.
+PUZZLE #20
+1 2 5 
+6 0 8 
+7 4 3 
+Solved by Misplaced Tiles in 1598 nodes
+Solved by Manhattan Distance in 285 nodes.
+Solved by Maxsort in 5177 nodes.
+Solved by Euclidean Distance in 896 nodes.
+PUZZLE #21
+1 2 0 
+6 4 3 
+7 8 5 
+Solved by Misplaced Tiles in 220 nodes
+Solved by Manhattan Distance in 73 nodes.
+Solved by Maxsort in 498 nodes.
+Solved by Euclidean Distance in 104 nodes.
+PUZZLE #22
+3 2 5 
+6 1 8 
+7 4 0 
+Solved by Misplaced Tiles in 22 nodes
+Solved by Manhattan Distance in 22 nodes.
+Solved by Maxsort in 58 nodes.
+Solved by Euclidean Distance in 33 nodes.
+PUZZLE #23
+1 2 5 
+6 3 4 
+7 8 0 
+Solved by Misplaced Tiles in 22 nodes
+Solved by Manhattan Distance in 22 nodes.
+Solved by Maxsort in 58 nodes.
+Solved by Euclidean Distance in 33 nodes.
+PUZZLE #24
+3 1 4 
+6 5 2 
+7 8 0 
+Solved by Misplaced Tiles in 271 nodes
+Solved by Manhattan Distance in 107 nodes.
+Solved by Maxsort in 942 nodes.
+Solved by Euclidean Distance in 350 nodes.
+PUZZLE #25
+4 2 5 
+1 3 8 
+0 6 7 
+Solved by Misplaced Tiles in 167 nodes
+Solved by Manhattan Distance in 27 nodes.
+Solved by Maxsort in 377 nodes.
+Solved by Euclidean Distance in 75 nodes.
+PUZZLE #26
+1 5 2 3 
+8 4 6 0 
+12 9 11 7 
+13 14 10 15 
+Solved by Misplaced Tiles in 31 nodes
+Solved by Manhattan Distance in 31 nodes.
+Solved by Maxsort in 33 nodes.
+Solved by Euclidean Distance in 33 nodes.
+PUZZLE #27
+1 2 6 3 
+4 9 5 0 
+12 10 14 7 
+13 8 15 11 
+Solved by Misplaced Tiles in 125 nodes
+Solved by Manhattan Distance in 61 nodes.
+Solved by Maxsort in 1908 nodes.
+Solved by Euclidean Distance in 336 nodes.
+PUZZLE #28
+4 2 3 7 
+5 1 10 6 
+8 13 9 0 
+12 14 15 11 
+Solved by Misplaced Tiles in 41 nodes
+Solved by Manhattan Distance in 41 nodes.
+Solved by Maxsort in 212 nodes.
+Solved by Euclidean Distance in 96 nodes.
+PUZZLE #29
+1 5 2 3 
+6 8 10 7 
+4 13 11 15 
+12 14 9 0 
+Solved by Misplaced Tiles in 919 nodes
+Solved by Manhattan Distance in 65 nodes.
+Solved by Maxsort in 5372 nodes.
+Solved by Euclidean Distance in 207 nodes.
+PUZZLE #30
+4 2 3 7 
+8 1 5 11 
+9 13 6 15 
+12 14 10 0 
+Solved by Misplaced Tiles in 44 nodes
+Solved by Manhattan Distance in 44 nodes.
+Solved by Maxsort in 203 nodes.
+Solved by Euclidean Distance in 105 nodes.
+PUZZLE #31
+1 2 6 3 
+9 5 7 11 
+13 8 0 15 
+4 12 10 14 
+Solved by Misplaced Tiles in 159060 nodes
+Solved by Manhattan Distance in 5282 nodes.
+Solved by Maxsort in 1332483 nodes.
+Solved by Euclidean Distance in 37792 nodes.
+PUZZLE #32
+1 2 6 3 
+8 4 7 11 
+12 5 9 10 
+13 14 0 15 
+Solved by Misplaced Tiles in 42 nodes
+Solved by Manhattan Distance in 42 nodes.
+Solved by Maxsort in 183 nodes.
+Solved by Euclidean Distance in 95 nodes.
+PUZZLE #33
+4 0 1 2 
+5 9 6 3 
+12 10 14 7 
+13 8 15 11 
+Solved by Misplaced Tiles in 97 nodes
+Solved by Manhattan Distance in 55 nodes.
+Solved by Maxsort in 1107 nodes.
+Solved by Euclidean Distance in 310 nodes.
+PUZZLE #34
+1 5 3 7 
+8 4 2 11 
+12 6 9 15 
+13 0 10 14 
+Solved by Misplaced Tiles in 144 nodes
+Solved by Manhattan Distance in 55 nodes.
+Solved by Maxsort in 773 nodes.
+Solved by Euclidean Distance in 603 nodes.
+PUZZLE #35
+1 2 7 6 
+8 4 5 3 
+12 10 11 15 
+13 9 0 14 
+Solved by Misplaced Tiles in 691 nodes
+Solved by Manhattan Distance in 58 nodes.
+Solved by Maxsort in 4954 nodes.
+Solved by Euclidean Distance in 1773 nodes.
